@@ -1,0 +1,77 @@
+/* */
+
+.profile_description {
+width: 500;
+margin: 30px auto;
+padding: 30px;
+text-align: center;
+background: white;
+border:1px solid #B86B6B;
+border-radius: 1px;
+box-shadow: 1px 1px #D4CACA;
+}
+
+.social {
+width: 500;
+margin: 30px auto;
+padding: 30px;
+text-align: center;
+background: white;
+border:1px solid #B86B6B;
+border-radius: 1px;
+box-shadow: 1px 1px #D4CACA;
+}
+
+.social ul {
+  list-style: none;
+  padding-left: 0;
+  display:inline;
+}
+
+.social a {
+  color: #7D7B7B;
+  text-decoration: none;
+  font-size: 50px;
+}
+
+.table {
+width: 500;
+margin: 30px auto;
+padding: 30px;
+text-align: center;
+background: white;
+border:1px solid #B86B6B;
+border-radius: 1px;
+box-shadow: 1px 1px #D4CACA;
+}
+
+.table table {
+  margin: 0 auto;
+}
+
+#avatar {
+border-radius: 150px;
+}
+
+#bold {
+font-weight: bold;
+}
+
+.headers {
+color: #B0AFAF;
+font-size: 20px;
+font-family: 'Open Sans', sans-serif;
+line-height: 85%;
+}
+
+#bodymod {
+  background-color: #CD5F5B ;
+  opacity: 0.9;
+  font-family: 'Open Sans', sans-serif;
+  color: #B0AFAF ;
+  font-size: 15px;
+  line-height: 75%;
+}
+
+
+/* Here goes your CSS */
